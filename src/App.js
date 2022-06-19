@@ -6,6 +6,7 @@ import React, { useState } from 'react'
 
 //This declares the api that we would be using for the tutorial
 const api = {
+  //Replace the api key and api base url to yours
   key: process.env.API_KEY,
   base: process.env.API_BASE
 }
